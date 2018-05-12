@@ -1,0 +1,31 @@
+_repo: -nimes-atu-des_17410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roig i Raventós, Josep
+    aliases:
+    - Roig Raventós, José
+    - Roig i Raventos, Josep
+    - Raventós, Josep Roig i
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '7361'
+    url: http://www.gutenberg.org/2009/agents/7361
+description: ''
+gutenberg_issued: '2005-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17410'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+title: Ànimes atuïdes
+url: http://www.gutenberg.org/ebooks/17410
